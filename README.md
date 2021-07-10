@@ -1,4 +1,3 @@
-Status : 
-[![Build Status](https://api.travis-ci.org/snoyberg/xml.svg?branch=master)](https://travis-ci.org/snoyberg/xml)
+## xml-conduit-shim
 
-mega-repo for XML related utilities
+This is a shim for xml-conduit, which removes all dependencies on conduit-related things (to remove C dependencies).
